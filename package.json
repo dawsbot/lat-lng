@@ -1,0 +1,26 @@
+{
+  "name": "lat-long",
+  "version": "0.0.0",
+  "description": "Cached endpoint for google's geojson api",
+  "main": "index.js",
+  "repository": "https://github.com/dawsbot/geojson-google",
+  "author": "Dawson Botsford",
+  "license": "MIT",
+  "engines": {
+    "node": "7"
+  },
+  "scripts": {
+    "start": "micro",
+    "test": "xo && ava"
+  },
+  "dependencies": {
+    "ava": "^0.19.0",
+    "micro": "^7.3.0",
+    "node-fetch": "^1.6.3",
+    "test-listen": "^1.0.1",
+    "xo": "^0.18.1"
+  },
+  "xo": {
+    "space": 2
+  }
+}
