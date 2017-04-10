@@ -14,9 +14,11 @@
     "test": "xo && ava"
   },
   "dependencies": {
-    "ava": "^0.19.0",
     "micro": "^7.3.0",
-    "node-fetch": "^1.6.3",
+    "node-fetch": "^1.6.3"
+  },
+  "devDependencies": {
+    "ava": "^0.19.0",
     "test-listen": "^1.0.1",
     "xo": "^0.18.1"
   },
