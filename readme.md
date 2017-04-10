@@ -33,8 +33,8 @@ Response:
 
 Other valid examples:
 
-* ['https://lat-long.now.sh/?address=San+Francisco'](https://lat-long.now.sh/?address=San+Francisco)
-* ['https://lat-long.now.sh/?address=Boulder,+Colorado'](https://lat-long.now.sh/?address=Boulder,+Colorado)
+* [https://lat-long.now.sh/?address=San+Francisco](https://lat-long.now.sh/?address=San+Francisco)
+* [https://lat-long.now.sh/?address=Boulder,+Colorado](https://lat-long.now.sh/?address=Boulder,+Colorado)
 
 
 ## License
