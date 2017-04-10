@@ -1,9 +1,9 @@
 {
-  "name": "lat-long",
+  "name": "lat-lng",
   "version": "0.0.0",
-  "description": "Cached endpoint for google's geojson api",
+  "description": "📍🌎 A micro-service for physical address -> lat-long",
   "main": "index.js",
-  "repository": "https://github.com/dawsbot/geojson-google",
+  "repository": "https://github.com/dawsbot/lat-lng",
   "author": "Dawson Botsford",
   "license": "MIT",
   "engines": {
